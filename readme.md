@@ -77,7 +77,7 @@ Certainly! Below is an enhanced version of the README.md for your NQN Bot, which
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License) file for details.
 
 Contributing 🤝
 We welcome contributions from the community! If you have a feature request, bug fix, or improvement, please follow the steps below:
