@@ -91,5 +91,5 @@ Create a pull request.
 Contact 📬
 For any questions, feel free to reach out to the project maintainers.
 
-Discord: https://discord.gg/f8DD9nA2J6
+Discord: https://discord.gg/HQFek7WsyB
 GitHub: TeamSpark GitHub
